@@ -8,7 +8,7 @@
 	<version>${version}</version>
 	<properties>
 		<java-version>1.6</java-version>
-		<org.springframework-version>3.0.5.RELEASE</org.springframework-version>
+		<org.springframework-version>3.2.1.RELEASE</org.springframework-version>
 		<org.slf4j-version>1.5.10</org.slf4j-version>
 		<org.thymeleaf-version>2.0.16</org.thymeleaf-version>
 		<org.hibernate-validator>4.3.1.Final</org.hibernate-validator>
